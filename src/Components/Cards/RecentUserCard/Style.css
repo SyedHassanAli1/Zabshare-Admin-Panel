@@ -1,0 +1,25 @@
+.userCardPaperContainer{
+    padding: 2%;
+    border-radius: 1vh;
+}
+
+.userCardContainerHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.userCardContainerHeaderText{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.userCardContainerHeaderText:hover{
+    color: #4f5ace;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.userCardTableHeader{
+    background-color: rgb(240, 243, 245);
+}

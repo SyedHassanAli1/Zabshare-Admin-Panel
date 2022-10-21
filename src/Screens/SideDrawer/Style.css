@@ -1,0 +1,10 @@
+.AppBarLogo{
+    background-image: url('../../Assets/logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 7.5vh;
+    width: 100%;
+    /* padding: 2vh; */
+    /* background-color: aqua; */
+}
